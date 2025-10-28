@@ -6,12 +6,16 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
+.idea
+.ipynb_checkpoints
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
 venv/
+CK+48
+CK+224224
 Data/
 Data - Copy
 disfa_complete
@@ -29,6 +33,7 @@ JAFFE
 Welcome_Webinar__1.ics
 Vadapalli_hb_phd_ns_2011 (1).pdf
 test.h5
+17.41.56-17.42.16[M][0@0][37594].dav
 17.41.56-17.42.16[M][0@0][37594].dav
 *.zip
 image_data_1.csv
