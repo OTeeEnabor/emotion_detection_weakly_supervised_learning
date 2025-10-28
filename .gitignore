@@ -14,11 +14,26 @@
 venv/
 Data/
 Data - Copy
+disfa_complete
+disfa_dataset
+disgust
+extract_test
+anger
+fear
+happiness
+sadness
+surprise
+neutrality
+
 *.pdf
 Vadapalli_hb_phd_ns_2011 (1).pdf
 test.h5
 17.41.56-17.42.16[M][0@0][37594].dav
 *.zip
+image_data_1.csv
+image_data_2.csv
+haarcascade_frontalface_default.xml
+
 # AWS User-specific
 .idea/**/aws.xml
 
